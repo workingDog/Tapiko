@@ -10,13 +10,13 @@ The application does not write to cards or perform payments. It only reads card 
 
 The app provides the following functionality:
 
-• Supports both PASMO and Suica cards.
-• Displays the current card balance and balance history.
-• Displays the last 10 transactions and identifies how the card was used, such as train, bus, retail purchase, or recharge.
-• Processes card data entirely on-device using native iPhone NFC.
-• Supports both English and Japanese languages.
-• Supports multiple cards.
-• Displays a chart of card charges by month in a year, over multiple years.
+* Supports both PASMO and Suica cards.
+* Displays the current card balance and balance history.
+* Displays the last 10 transactions and identifies how the card was used, such as train, bus, retail purchase, or recharge.
+* Processes card data entirely on-device using native iPhone NFC.
+* Supports both English and Japanese languages.
+* Supports multiple cards.
+* Displays a chart of card charges by month in a year, over multiple years.
 
 Note, 
 * If no card charge records exist for previous years, only the current year is shown.
