@@ -5,6 +5,10 @@ This app uses an iPhone’s Apple Core NFC capabilities to read a Japanese PASMO
 
 The application does not write to cards or perform payments. It only reads card information and displays the stored balance and transaction history. It cannot modify, recharge, or otherwise change any PASMO or Suica cards. 
 
+<p float="left">
+  <img src="s1x.png" width="300" height="400" /> 
+</p>
+
 
 ## Highlights
 
